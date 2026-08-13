@@ -28,7 +28,13 @@ The objective of this project is to analyze sales and profit data using Excel fu
 - Slicers
 - Dashboard & Visualizations
 
-## Dashboard Preview
+## Project Screenshots
+
+### Project Summary
+
+![Project Summary](01_Project_Summary.png)
+
+### Final Dashboard
 
 ![Global Superstore Dashboard](Global_Superstore_Dashboard.png)
 

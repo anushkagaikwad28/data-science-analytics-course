@@ -36,7 +36,7 @@ The objective of this project is to analyze sales and profit data using Excel fu
 
 ### Final Dashboard
 
-![Global Superstore Dashboard](Global_Superstore_Dashboard.png)
+![Global Superstore Dashboard](02_Dashboard.png)
 
 ## Tools Used
 

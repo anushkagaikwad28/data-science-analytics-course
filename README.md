@@ -6,7 +6,7 @@ ________________________________________
 **📚 Course Modules**
 Module	Status
 01. Excel	          🟢 Completed
-02. SQL	            🔵 Upcoming
+02. SQL	            🔵 Completed
 03. Python	        🔵 Upcoming
 04. Statistics	    🔵 Upcoming
 05. Power BI	      🔵 Upcoming
